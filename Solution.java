@@ -35,6 +35,7 @@ class Solution {
       return -1;
     }
 
+    //To flip 
     private static void flip(int[] A, int index) {
         int i = 0, j = index;
 
